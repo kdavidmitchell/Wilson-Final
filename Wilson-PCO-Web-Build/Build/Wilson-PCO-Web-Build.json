@@ -1,11 +1,9 @@
 {
-"companyName": "The Wilson Center",
-"productName": "Link to the Past: Woodrow Wilson",
+"TOTAL_MEMORY": 268435456,
 "dataUrl": "Wilson-PCO-Web-Build.data.unityweb",
 "asmCodeUrl": "Wilson-PCO-Web-Build.asm.code.unityweb",
 "asmMemoryUrl": "Wilson-PCO-Web-Build.asm.memory.unityweb",
 "asmFrameworkUrl": "Wilson-PCO-Web-Build.asm.framework.unityweb",
-"TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Light",
