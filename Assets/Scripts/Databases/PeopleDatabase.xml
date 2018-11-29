@@ -19,8 +19,8 @@
     <Talk1></Talk1>
     <Question0>Can you tell me more about Professor Wilson?</Question0>
     <Question1>Do you like Bryn Mawr?</Question1>
-    <Answer0>You want to know about Professor Wilson? Well, I know he is working on a book about the government. I think the title is The State? Not sure.</Answer0>
-    <Answer1>I'm so excited to be here at Bryn Mawr College! Our class is really small -- only 45 women -- but we're all excited to learn.</Answer1>
+    <Answer0>"You want to know about Professor Wilson? Well, I know he is working on a book about the government. I think the title is The State? Not sure."</Answer0>
+    <Answer1>"I'm so excited to be here at Bryn Mawr College! Our class is really small -- only 45 women -- but we're all excited to learn."</Answer1>
   </Person>
   
   <Person>
@@ -55,20 +55,20 @@
     <Talk1></Talk1>
     <Question0>Why is Teddy Roosevelt the reason why Wilson won?</Question0>
     <Question1>What were the final results for the election?</Question1>
-    <Answer0>"When Teddy didn't win to run for the Republicans he joined the Progressive Party. That completely split the Republican party and swayed some voters, as the saying goes, you just can't stop the bull moose from charging through an election!"</Answer0>
-    <Answer1>"Oh Wilson won by a landslide with 47% of the vote. Taft and Teddy were close with 23% and 27% respectively. And poor debs only got 6% of the vote."</Answer1>
+    <Answer0>"When Teddy didn't win the Republican nomination, he joined the Progressive Party. That completely split the Republican party and swayed some voters. As the saying goes, you just can't stop the bull moose from charging through an election!"</Answer0>
+    <Answer1>"Oh, Wilson won by a landslide with 47% of the vote. Taft and Teddy were close with 23% and 27% respectively. And poor Debs only got 6% of the vote."</Answer1>
   </Person>
   
   <Person>
     <Name>Alice Paul</Name>
     <ID>5</ID>
     <Look>Alice Paul was one of the most prominent members of the sufferagist movement and a leader of the National Women's Party.</Look>
-    <Talk0>"Women's suffrage is the campaign for women to vote. President Wilson initially was lukewarm to the idea and believed it an issue for the states to decide. Ultimately his thinking changed, and in 1918 he spoke Wilson before Congress to publicly endorsed women’s suffrage. Later, he signed the 19th amendment."</Talk0>
+    <Talk0>"Women's suffrage is the campaign for women to vote. President Wilson initially was lukewarm to the idea and believed it an issue for the states to decide. Ultimately his thinking changed, and in 1918 he spoke before Congress to publicly endorse women’s suffrage. Later, he signed the 19th amendment."</Talk0>
     <Talk1></Talk1>
     <Question0>Have you ever struggled to gain the right to vote?</Question0>
     <Question1>How did President Wilson really feel about women voting?</Question1>
     <Answer0>"Many of us have seen injustice and jail time trying to get sufferage, but thanks to Wilson things started to change for the better."</Answer0>
-    <Answer1>Well, originally Wilson said that "a woman's place was in the home, and the type of woman who took an active part in the suffrage agitation was totally abhorrent." He looked down on us quite a bit, but he came around eventually.</Answer1>
+    <Answer1>"Well, originally Wilson said that 'a woman's place was in the home, and the type of woman who took an active part in the suffrage agitation was totally abhorrent.' He looked down on us quite a bit, but he came around eventually."</Answer1>
   </Person>
   
   <Person>
@@ -103,15 +103,15 @@
     <Talk1></Talk1>
     <Question0>Can you tell me more about the Keating-Owen bill?</Question0>
     <Question1>What will you do now that you don't have to work?</Question1>
-    <Answer0>"I think that bill was passed in 1916. Pa said that it made it illegal to sell products from an shop or factory that employed someone under 14 like me. </Answer0>
+    <Answer0>"I think that bill was passed in 1916. Pa said that it made it illegal to sell products from a shop or factory that employed someone under 14 like me. </Answer0>
     <Answer1>"Pa says that I can finally go to school to learn. I'm excited!"</Answer1>
   </Person>
   
   <Person>
     <Name>Georges Clemenceau</Name>
     <ID>9</ID>
-    <Look>For the sake of Irony, Clemenceau had the Treaty of Versailles signed in Versailles' Hall of Mirrors, where William I of Germany declared himself Emperor 48 years prior.</Look>
-    <Talk0>"Wilson has his head in the clouds. The Versailles Treaty is too idealistic -- he doesn't even have support from his own country to join! And he bores me with his Fourteen Points; why God Almighty has only ten!"</Talk0>
+    <Look>For the sake of irony, Clemenceau had the Treaty of Versailles signed in Versailles' Hall of Mirrors, where William I of Germany declared himself emperor 48 years prior.</Look>
+    <Talk0>"Wilson has his head in the clouds. The Versailles Treaty is too idealistic -- he doesn't even have support from his own country to join! And he bores me with his Fourteen Points; why, God Almighty has only ten!"</Talk0>
     <Talk1></Talk1>
     <Question0>What does France hope to gain from these talks?</Question0>
     <Question1></Question1>
@@ -139,7 +139,7 @@
     <Talk1></Talk1>
     <Question0>What does Italy hope to gain from these talks?</Question0>
     <Question1></Question1>
-    <Answer0>"Only what we were promised in the Treaty of London: Some islands off our coast, Territory between Italy and Austro-Hungary, and parts of Dalmatia."</Answer0>
+    <Answer0>"Only what we were promised in the Treaty of London: Some islands off our coast, territory between Italy and Austro-Hungary, and parts of Dalmatia."</Answer0>
     <Answer1></Answer1>
   </Person>
 
@@ -158,13 +158,13 @@
   <Person>
     <Name>Wilson1</Name>
     <ID>13</ID>
-    <Look>Woodrow Wilson ended up having to leave france in the middle of the talks at Versailles to attend meetings with Congress back in the states. This was a ploy by his opposing party to undermine him.</Look>
-    <Talk0>"I had tried to keep the US out of the war,  but now I merely wanted to keep the world safe from future wars. I'm trying to get talks done here, but I'm concerned with the discontent brewing back home."</Talk0>
+    <Look>Woodrow Wilson ended up having to leave France in the middle of the talks at Versailles to attend meetings with Congress back in the states. This was a ploy by his opposing party to undermine him.</Look>
+    <Talk0>"I had tried to keep the US out of the war, but now I merely want to keep the world safe from future wars. I'm trying to get talks done here, but I'm concerned with the discontent brewing back home."</Talk0>
     <Talk1></Talk1>
     <Question0>Is it hard being here in Paris?</Question0>
     <Question1>DO you think the U.S. will become a part of the League of Nations?</Question1>
-    <Answer0>"Hm, yes and no. While the scenery is beautiful here, I'm worried about things back home in congress."</Answer0>
-    <Answer1>"I do hope so! The US cannot stay isolated in a world where violence and revolution can spill over country borders."</Answer1>
+    <Answer0>"Hm, yes and no. While the scenery is beautiful here, I'm worried about things back home in Congress."</Answer0>
+    <Answer1>"I do hope so! The U.S. cannot stay isolated in a world where violence and revolution can spill over country borders."</Answer1>
   </Person>
 
   <Person>
@@ -175,7 +175,7 @@
     <Talk1></Talk1>
     <Question0>What were some of the policies you enacted as president?</Question0>
     <Question1>Do you have a favorite pastime?</Question1>
-    <Answer0>"Other than making establishing the Federal Reserve, I also enacted the 8-hour day, stated giving loans to farmers and reduced tariffs on imports."</Answer0>
+    <Answer0>"Other than establishing the Federal Reserve, I also enacted the 8-hour day, started giving loans to farmers and reduced tariffs on imports."</Answer0>
     <Answer1>"I say there's nothing better than watching a baseball game and then coming home to be with the missus."</Answer1>
   </Person>
   

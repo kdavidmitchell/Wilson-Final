@@ -8,13 +8,14 @@ public class ItemDropHandler : MonoBehaviour, IDropHandler
 {
 
 	public RectTransform wilson;
-	public int score;
+	public int score = 0;
 
 	public void OnDrop(PointerEventData eventData)
     {
     	Vector2 pos;
     	if (RectTransformUtility.ScreenPointToLocalPointInRectangle(wilson, eventData.position, Camera.main, out pos))
         {
+            Debug.Log("Drop on Wilson detected");
             if (GameManager.itemsGiven < 3)
             {
                 Debug.Log("Item accepted");

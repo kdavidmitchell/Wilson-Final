@@ -965,7 +965,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 232cf8eb0ee07174eb466eb738fa8daf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  message: Journalists used propoganda to make Germany and it's Kaiser look barbaric
+  message: Journalists used propaganda to make Germany and its Kaiser look barbaric
     and mad. This is what helped push American citizens into supporting the war.
 --- !u!1 &822568544
 GameObject:
@@ -1644,7 +1644,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 232cf8eb0ee07174eb466eb738fa8daf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  message: The tyranny that Germany subjected the rest of the world to caused quite
+  message: The tyranny to which Germany subjected the rest of the world caused quite
     the upset to Wilson and the US.
 --- !u!1 &1127477613
 GameObject:
@@ -3010,7 +3010,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 232cf8eb0ee07174eb466eb738fa8daf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  message: The Zimmerman Note was intercepted by the US in 1917. In it, German tried
+  message: The Zimmerman Note was intercepted by the US in 1917. In it, Germany tried
     to convince Mexico to go to war with the United States.
 --- !u!1 &1494062427
 GameObject:
@@ -4066,7 +4066,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 232cf8eb0ee07174eb466eb738fa8daf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  message: Though Germany agreed to restrict attacks on boats via the Sussex Plesge
+  message: Though Germany agreed to restrict attacks on boats via the Sussex Pledge
     in 1916, they eventually broke the agreement with unrestricted submarine warfare.
 --- !u!1 &1831293739
 GameObject:

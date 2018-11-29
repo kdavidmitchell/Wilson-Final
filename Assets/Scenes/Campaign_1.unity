@@ -760,7 +760,7 @@ Prefab:
     - target: {fileID: 224512487919762686, guid: a9952afbb0a400c4498ed12e0622801c,
         type: 2}
       propertyPath: m_LocalPosition.y
-      value: -448
+      value: -448.00006
       objectReference: {fileID: 0}
     - target: {fileID: 224512487919762686, guid: a9952afbb0a400c4498ed12e0622801c,
         type: 2}
@@ -790,7 +790,7 @@ Prefab:
     - target: {fileID: 224512487919762686, guid: a9952afbb0a400c4498ed12e0622801c,
         type: 2}
       propertyPath: m_RootOrder
-      value: 8
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 224512487919762686, guid: a9952afbb0a400c4498ed12e0622801c,
         type: 2}
@@ -2921,12 +2921,12 @@ Prefab:
     - target: {fileID: 224615172786065342, guid: 1cd47f32bb8be8b4babb4c1b5f73a9ac,
         type: 2}
       propertyPath: m_LocalPosition.x
-      value: 928
+      value: 1849.5742
       objectReference: {fileID: 0}
     - target: {fileID: 224615172786065342, guid: 1cd47f32bb8be8b4babb4c1b5f73a9ac,
         type: 2}
       propertyPath: m_LocalPosition.y
-      value: -17.599976
+      value: 500.7854
       objectReference: {fileID: 0}
     - target: {fileID: 224615172786065342, guid: 1cd47f32bb8be8b4babb4c1b5f73a9ac,
         type: 2}
@@ -2956,7 +2956,7 @@ Prefab:
     - target: {fileID: 224615172786065342, guid: 1cd47f32bb8be8b4babb4c1b5f73a9ac,
         type: 2}
       propertyPath: m_RootOrder
-      value: 10
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 224615172786065342, guid: 1cd47f32bb8be8b4babb4c1b5f73a9ac,
         type: 2}
@@ -3760,12 +3760,12 @@ Prefab:
     - target: {fileID: 224856565212887826, guid: cf8772de7e9023742a8fb49d1ba1db5e,
         type: 2}
       propertyPath: m_LocalPosition.x
-      value: 928
+      value: 1849.5742
       objectReference: {fileID: 0}
     - target: {fileID: 224856565212887826, guid: cf8772de7e9023742a8fb49d1ba1db5e,
         type: 2}
       propertyPath: m_LocalPosition.y
-      value: 511
+      value: 1029.3854
       objectReference: {fileID: 0}
     - target: {fileID: 224856565212887826, guid: cf8772de7e9023742a8fb49d1ba1db5e,
         type: 2}
@@ -3846,41 +3846,6 @@ Prefab:
         type: 2}
       propertyPath: m_Pivot.y
       value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 224856565212887826, guid: cf8772de7e9023742a8fb49d1ba1db5e,
-        type: 2}
-      propertyPath: m_LocalScale.x
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 224856565212887826, guid: cf8772de7e9023742a8fb49d1ba1db5e,
-        type: 2}
-      propertyPath: m_LocalScale.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 224856565212887826, guid: cf8772de7e9023742a8fb49d1ba1db5e,
-        type: 2}
-      propertyPath: m_LocalScale.z
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 224188666741700394, guid: cf8772de7e9023742a8fb49d1ba1db5e,
-        type: 2}
-      propertyPath: m_AnchoredPosition.y
-      value: 209
-      objectReference: {fileID: 0}
-    - target: {fileID: 224188666741700394, guid: cf8772de7e9023742a8fb49d1ba1db5e,
-        type: 2}
-      propertyPath: m_SizeDelta.y
-      value: -458
-      objectReference: {fileID: 0}
-    - target: {fileID: 114882489422352180, guid: cf8772de7e9023742a8fb49d1ba1db5e,
-        type: 2}
-      propertyPath: m_FontData.m_BestFit
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 114882489422352180, guid: cf8772de7e9023742a8fb49d1ba1db5e,
-        type: 2}
-      propertyPath: m_FontData.m_MinSize
-      value: 25
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: cf8772de7e9023742a8fb49d1ba1db5e, type: 2}
@@ -4111,7 +4076,7 @@ Prefab:
     - target: {fileID: 224779752117867910, guid: d2801472308bb08459939d35d28e035e,
         type: 2}
       propertyPath: m_LocalPosition.y
-      value: -533
+      value: -1051.3854
       objectReference: {fileID: 0}
     - target: {fileID: 224779752117867910, guid: d2801472308bb08459939d35d28e035e,
         type: 2}

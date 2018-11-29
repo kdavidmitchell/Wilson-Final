@@ -355,7 +355,7 @@ public class ItemClickHandler : MonoBehaviour, IPointerClickHandler, IPointerEnt
 
                     buttonText = objectToBeInstantiated.GetComponentInChildren<Text>();
                     buttonText.text = question;
-                    buttonText.fontSize = 24;
+                    buttonText.fontSize = 20;
                     buttonText.fontStyle = FontStyle.Italic;
 
                     objectToBeInstantiated.onClick.AddListener(() => GameManager.UpdateDialogueText(answers[questions.IndexOf(question)]));
