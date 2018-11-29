@@ -1,0 +1,112 @@
+<Items>
+  <Item>
+    <Name>Diploma</Name>
+    <ID>0</ID>
+    <Description>It's a diploma from John's Hopkins. Looks like a Master's in Political Science.</Description>
+    <IsInventoryItem>true</IsInventoryItem>
+    <IsDraggable>True</IsDraggable>
+    <ValidGive>"Oh, my Johns Hopkins diploma! Thank you for retrieving it for me. You know it's all coming back to me, later on in 1902 I will become the 13th president of the college of New Jersey. You might call it Princeton now. I was well known for making changes to the school that focused on education over social standing. My preceptorials made it so small gatherings of students could have quality academic discussion, and I even increased the number and pay of the teachers! Most scholars now point to me for revolutionizing the US higher education system."</ValidGive>
+    <InvalidGive>You can't give that to them.</InvalidGive>
+    <Value>10</Value>
+  </Item>
+  
+  <Item>
+    <Name>Owl Statue</Name>
+    <ID>1</ID>
+    <Description>It appears to be a scholarly owl statue, no doubt a good luck charm for some student. Were owls somehow important to President Wilson?</Description>
+    <IsInventoryItem>True</IsInventoryItem>
+    <IsDraggable>True</IsDraggable>
+    <ValidGive>"Ah the symbol of Bryn Mawr! The say that the owl on one of the arches here is meant to protect knowledge."</ValidGive>
+    <InvalidGive>You can't give that to them.</InvalidGive>
+    <Value>5</Value>
+  </Item>
+  <Item>
+    
+    <Name>Book</Name>
+    <ID>2</ID>
+    <Description>Ah, Introduction to Latin. It seems to have copious notes written in the margins, the handwriting a pristine cursive.</Description>
+    <IsInventoryItem>True</IsInventoryItem>
+    <IsDraggable>True</IsDraggable>
+    <ValidGive>"Oh my book on Latin, thank you. Quite a few terms in political science are said in Latin, I figured I should brush up on it."</ValidGive>
+    <InvalidGive>You can't give that to them.</InvalidGive>
+    <Value>0</Value>
+  </Item>
+  
+  <Item>
+    <Name>14 Points</Name>
+    <ID>3</ID>
+    <Description>These 14 points were first presented to Congress after World War I. They were President Wilson's guidelines for creating lasting peace in Europe.</Description>
+    <IsInventoryItem>true</IsInventoryItem>
+    <IsDraggable>True</IsDraggable>
+    <ValidGive>"This is the short hand for my speech on the 14 points to Congress, thank you for finding it. While most of these points try to establish territory lines, I think where it really shines is in the formation of the League of Nations and the liberation of the seas for trade and travel."</ValidGive>
+    <InvalidGive>You can't give that to them.</InvalidGive>
+    <Value>10</Value>
+  </Item>
+  
+  <Item>
+    <Name>Political Cartoon</Name>
+    <ID>4</ID>
+    <Description>Looks like a political cartoon. It shows Wilson trying to give a large Olive Branch to a tiny dove.</Description>
+    <IsInventoryItem>false</IsInventoryItem>
+    <IsDraggable>True</IsDraggable>
+    <ValidGive>"It's well drawn, but not too flattering is it?"</ValidGive>
+    <InvalidGive>You can't give that to them.</InvalidGive>
+    <Value>0</Value>
+  </Item>
+
+  <Item>
+    <Name>Newspaper</Name>
+    <ID>5</ID>
+    <Description>It seems to be an issue of the El Paso Herald. The front page reads "Woodrow Wilson is the Choice of the Democrats."</Description>
+    <IsInventoryItem>false</IsInventoryItem>
+    <IsDraggable>True</IsDraggable>
+    <ValidGive>"I'm honored to have been the Democratic pick for president. I know that I can change America for the better."</ValidGive>
+    <InvalidGive>You can't give that to them.</InvalidGive>
+    <Value>0</Value>
+  </Item>
+
+  <Item>
+    <Name>Sea Ticket</Name>
+    <ID>6</ID>
+    <Description>Looks like some type of roundtrip ticket for a boat. Maybe someone is going on vacation?</Description>
+    <IsInventoryItem>true</IsInventoryItem>
+    <IsDraggable>True</IsDraggable>
+    <ValidGive>"Thank you for finding my boat ticket. Did you know I was the first president to travel to Europe while still in office?"</ValidGive>
+    <InvalidGive>You can't give that to them.</InvalidGive>
+    <Value>5</Value>
+  </Item>
+
+  <Item>
+    <Name>Doll</Name>
+    <ID>7</ID>
+    <Description>What a cute doll. Thanks to Wilson and his child labor laws, kids could freely play with their dolls without worrying about going to work.</Description>
+    <IsInventoryItem>True</IsInventoryItem>
+    <IsDraggable>True</IsDraggable>
+    <ValidGive>"A doll, huh? I think I'm too old to play with dolls and so are my daughters. Maybe we can find a child who can give it a home later."</ValidGive>
+    <InvalidGive>You can't give that to them.</InvalidGive>
+    <Value>0</Value>
+  </Item>
+
+  <Item>
+    <Name>Glasses</Name>
+    <ID>8</ID>
+    <Description>Looks like a pair of Pince-Nez glasses. They were pretty popular in this time period.</Description>
+    <IsInventoryItem>true</IsInventoryItem>
+    <IsDraggable>True</IsDraggable>
+    <ValidGive>"You've found my glasses, very good. I'd like to think I made them popular."</ValidGive>
+    <InvalidGive>You can't give that to them.</InvalidGive>
+    <Value>5</Value>
+  </Item>
+
+  <Item>
+    <Name>Portrait</Name>
+    <ID>9</ID>
+    <Description>Seems to be a picture of President Wilson's family: His wife and three daughters.</Description>
+    <IsInventoryItem>true</IsInventoryItem>
+    <IsDraggable>True</IsDraggable>
+    <ValidGive>"My family is quite important to me. I once had to give reporters quite the tongue lashing when they tried to gossip about my daughters' love lives."</ValidGive>
+    <InvalidGive>You can't give that to them.</InvalidGive>
+    <Value>10</Value>
+  </Item>
+  
+</Items>

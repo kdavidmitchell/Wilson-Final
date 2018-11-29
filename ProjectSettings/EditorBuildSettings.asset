@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start Screen.unity
+    guid: 538bfc4b608f7564581d9eb72d5b5e48
+  - enabled: 1
+    path: Assets/Scenes/Opening Cutscene.unity
+    guid: ee475c331b140cf41813779e26d715dc
+  - enabled: 1
+    path: Assets/Scenes/BrynMawr_1.unity
+    guid: ed13923459cb77940ac22468ddaf2bfb
+  - enabled: 1
+    path: Assets/Scenes/BrynMawr_2.unity
+    guid: 4d7e75e7d6c37f340a140d486909484f
+  - enabled: 1
+    path: Assets/Scenes/Campaign_1.unity
+    guid: fe48c752d929eeb4193e432fd1d37c40
+  - enabled: 1
+    path: Assets/Scenes/Campaign_Mini.unity
+    guid: 8c34519d7fc674d469d695102aab1a6c
+  - enabled: 1
+    path: Assets/Scenes/WhiteHouse_1.unity
+    guid: 6201d4f118cfd32469a1c70bffa33f71
+  - enabled: 1
+    path: Assets/Scenes/WhiteHouse_2.unity
+    guid: 3a58260b1b3b6784e9657ce825549926
+  - enabled: 1
+    path: Assets/Scenes/WWI_Mini.unity
+    guid: a017ad1b0f2e2f64a8fe5baf3b575217
+  - enabled: 1
+    path: Assets/Scenes/Big4.unity
+    guid: feebf2ebbe87df14bb2442466f779518
+  - enabled: 1
+    path: Assets/Scenes/Quiz Final.unity
+    guid: f8077c5df15b5664ea8258c23002c7b9
+  - enabled: 1
+    path: Assets/Scenes/Take Inventory.unity
+    guid: 0c01bd641131e82418a32b88b5fccd10
+  - enabled: 1
+    path: Assets/Scenes/Bad End.unity
+    guid: dba4bb36f71d839409cb644a95c51ed6
+  - enabled: 1
+    path: Assets/Scenes/Good End.unity
+    guid: 671496969e0dd914cba668ba87955ce2
+  - enabled: 1
+    path: Assets/Scenes/True End.unity
+    guid: c64596194ff83ce48a255ae18ab36f00
+  m_configObjects: {}

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 252aaab75a5e0f34f8531417acd49803
+timeCreated: 1520878367
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cylburn
+  fontNames:
+  - Cylburn
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
