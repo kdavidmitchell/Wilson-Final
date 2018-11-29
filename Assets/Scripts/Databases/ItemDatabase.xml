@@ -108,5 +108,49 @@
     <InvalidGive>You can't give that to them.</InvalidGive>
     <Value>10</Value>
   </Item>
+
+  <Item>
+    <Name>Pipe</Name>
+    <ID>10</ID>
+    <Description>C'est une pipe... Or is it?</Description>
+    <IsInventoryItem>True</IsInventoryItem>
+    <IsDraggable>True</IsDraggable>
+    <ValidGive>"A pipe, I see. Wasn't much of a smoking or a drinking man myself."</ValidGive>
+    <InvalidGive>You can't give that to them.</InvalidGive>
+    <Value>0</Value>
+  </Item>
+
+  <Item>
+    <Name>Election Poster</Name>
+    <ID>11</ID>
+    <Description>Looks like an election poster for Wilson's campaign. It shows him and his running mate Thomas Marshall.</Description>
+    <IsInventoryItem>True</IsInventoryItem>
+    <IsDraggable>True</IsDraggable>
+    <ValidGive>"Now this brings me back! It was a long campaign, but God had me destined for the presidency."</ValidGive>
+    <InvalidGive>You can't give that to them.</InvalidGive>
+    <Value>5</Value>
+  </Item>
+
+  <Item>
+    <Name>Hat</Name>
+    <ID>12</ID>
+    <Description>A top hat made of wool, anyone who wore this would be pretty fashionable.</Description>
+    <IsInventoryItem>True</IsInventoryItem>
+    <IsDraggable>True</IsDraggable>
+    <ValidGive>"What a lovely  hat. I was known for donning a few in my day."</ValidGive>
+    <InvalidGive>You can't give that to them.</InvalidGive>
+    <Value>0</Value>
+  </Item>
+
+  <Item>
+    <Name>Pin</Name>
+    <ID>13</ID>
+    <Description>It seems to be a campaign pin. It says "Win with Wilson" on it.</Description>
+    <IsInventoryItem>True</IsInventoryItem>
+    <IsDraggable>True</IsDraggable>
+    <ValidGive>"It was always quite humbling to see a crowd with these pins on."</ValidGive>
+    <InvalidGive>You can't give that to them.</InvalidGive>
+    <Value>5</Value>
+  </Item>
   
 </Items>
