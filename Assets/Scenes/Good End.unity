@@ -145,7 +145,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 539044141}
-  videoName: Good End.mp4
+  videoName: OK End.mp4
   followSceneIndex: 0
 --- !u!328 &539044141
 VideoPlayer:
