@@ -2,25 +2,25 @@
   <Person>
     <Name>Wilson0</Name>
     <ID>0</ID>
-    <Look>Woodrow Wilson taught at Bryn Mawr from 1883 to 1889. While he was there he wrote "On Being Human."</Look>
-    <Talk0>"Academia is a passion for me. Though I am still skeptical when it comes to the education of women, I take pride in my contributions to learning and scholarship."</Talk0>
+    <Look>Woodrow Wilson taught at Bryn Mawr in 1885, when the college opened. While he was there he wrote "On Being Human."</Look>
+    <Talk0>"Academia is a passion for me. I hold degrees from Princeton University, University of Virginia, and Johns Hopkins University in Baltimore."</Talk0>
     <Talk1></Talk1>
     <Question0>How do you govern an entire nation of people?</Question0>
-    <Question1>Do you have a favorite color?</Question1>
-    <Answer0>"Not easily."</Answer0>
-    <Answer1>"Why yes, I'm quite fond of blue."</Answer1>
+    <Question1>Where did you teach?</Question1>
+    <Answer0>"It’s hard enough being the governor of New Jersey, let alone a nation."</Answer0>
+    <Answer1>"I taught at Bryn Mawr College, then Wesleyan University, then Princeton. I finished a book called 'The State' at Wesleyan."</Answer1>
   </Person>
   
   <Person>
     <Name>Young Student</Name>
     <ID>1</ID>
     <Look>Bryn Mawr was founded in 1885 as a Quaker institution.</Look>
-    <Talk0>"I love taking history and talking about early parliamentary systems with Professor Woodrow Wilson. Did you know he has a law degree *and* is earning his PhD in political science? </Talk0>
+    <Talk0>"I love taking history and talking about early parliamentary systems with Professor Woodrow Wilson. Did you know he has a law degree *and* is earning his PhD in political economy? </Talk0>
     <Talk1></Talk1>
     <Question0>Can you tell me more about Professor Wilson?</Question0>
-    <Question1>Do you like Bryn Mawr?</Question1>
-    <Answer0>"You want to know about Professor Wilson? Well, I know he is working on a book about the government. I think the title is The State? Not sure."</Answer0>
-    <Answer1>"I'm so excited to be here at Bryn Mawr College! Our class is really small -- only 45 women -- but we're all excited to learn."</Answer1>
+    <Question1>What are some of Professor Wilson’s favorite things?</Question1>
+    <Answer0>"You want to know about Professor Wilson? Well, I know he teaches public law and political economy. He loves politics!"</Answer0>
+    <Answer1>"He loves learning, and is earning his degree from Johns Hopkins in history AND political science.  Everyone loves his lectures, he is such a great public speaker!"</Answer1>
   </Person>
   
   <Person>
@@ -41,65 +41,65 @@
     <Look>Ralph Pulitzer, son of Joseph Pulitzer, was a respected journalist and publisher. He wrote two books: "New York Society on Parade" and "Over the Front in an Aeroplane, and Scenes inside the French and Flemish Trenches." </Look>
     <Talk0>"Wilson traveled 8,000 miles and delivered 25 speeches during his campaign trail called the "New Freedom." As a Democractic candidate, he focused on banking reform, tariff reductions, stronger anti-trust laws and breaking up the monopolies."</Talk0>
     <Talk1></Talk1>
-    <Question0>How do you percieve Wilson?</Question0>
+    <Question0>How do you perceive Wilson?</Question0>
     <Question1>Who did Wilson gear his campaign towards?</Question1>
     <Answer0>"I like him just fine but quite a few people see him as cold and aloof. A reporter friend of mine said that shaking his hand was like shaking a dead fish!"</Answer0>
-    <Answer1>"Just like Teddy, he wanted to gain favor with the Middle American who didn't agree with Taft's business-minded conservative policy. Wilson called them 'Men on the Make:' People who aspired to be property or business owners."</Answer1>
+    <Answer1>"Just like Teddy, he wanted to gain favor with the Regular Joe who didn't agree with Taft's business-minded conservative policy. Wilson called them 'Men on the Make:' People who aspired to be property or business owners."</Answer1>
   </Person>
   
   <Person>
     <Name>Photographer</Name>
     <ID>4</ID>
-    <Look>Around this time, photographers were transitioning from the Collodion Wet Process (where a syrup-like ether was coated on film to develop a picture) to the use of gelatin to take pictures. Photogs would often need a portable dark room with them to ensure they got the shot.</Look>
+    <Look>Around this time, photographers were transitioning from the Collodion Wet Process (where a syrup-like ether was coated on film to develop a picture) to the use of gelatin to take pictures. Photos would often need a portable dark room with them to ensure they got the shot.</Look>
     <Talk0>"Honestly, I wouldn't have counted on Wilson having a chance against Taft if it wasn't for Teddy Roosevelt."</Talk0>
     <Talk1></Talk1>
     <Question0>Why is Teddy Roosevelt the reason why Wilson won?</Question0>
     <Question1>What were the final results for the election?</Question1>
-    <Answer0>"When Teddy didn't win the Republican nomination, he joined the Progressive Party. That completely split the Republican party and swayed some voters. As the saying goes, you just can't stop the bull moose from charging through an election!"</Answer0>
-    <Answer1>"Oh, Wilson won by a landslide with 47% of the vote. Taft and Teddy were close with 23% and 27% respectively. And poor Debs only got 6% of the vote."</Answer1>
+    <Answer0>"After his loss of the democratic nomination, Teddy Roosevelt joined the progressive party, which some believe affected the vote.  I think that it split the republican vote and allowed Wilson to win. You can’t stop the bull moose from charging through an election."</Answer0>
+    <Answer1>"Oh, Wilson won by a landslide with 47% of the vote. Taft and Teddy were close with 23% and 27% respectively. And Eugene Debs, leader of the Socialist Party, managed to get 6% of the vote – more than any other third party candidate in American history."</Answer1>
   </Person>
   
   <Person>
     <Name>Alice Paul</Name>
     <ID>5</ID>
-    <Look>Alice Paul was one of the most prominent members of the sufferagist movement and a leader of the National Women's Party.</Look>
-    <Talk0>"Women's suffrage is the campaign for women to vote. President Wilson initially was lukewarm to the idea and believed it an issue for the states to decide. Ultimately his thinking changed, and in 1918 he spoke before Congress to publicly endorse women’s suffrage. Later, he signed the 19th amendment."</Talk0>
+    <Look>Alice Paul was one of the most prominent members of the suffragist movement and a leader of the National Women's Party.</Look>
+    <Talk0>"Women's suffrage is the campaign for women to vote. President Wilson initially was lukewarm to the idea, believing it was for the states to decide. But in 1918 he spoke before Congress to publicly endorse women’s suffrage. Later, he signed the 19th amendment."</Talk0>
     <Talk1></Talk1>
     <Question0>Have you ever struggled to gain the right to vote?</Question0>
     <Question1>How did President Wilson really feel about women voting?</Question1>
-    <Answer0>"Many of us have seen injustice and jail time trying to get sufferage, but thanks to Wilson things started to change for the better."</Answer0>
-    <Answer1>"Well, originally Wilson said that 'a woman's place was in the home, and the type of woman who took an active part in the suffrage agitation was totally abhorrent.' He looked down on us quite a bit, but he came around eventually."</Answer1>
+    <Answer0>"Like thousands of women across the globe, many of us have seen injustice and jail time trying to get suffrage, but thanks to Wilson things started to change for the better."</Answer0>
+    <Answer1>"Well, originally Wilson said that 'a woman's place was in the home, and the type of woman who took an active part in the suffrage agitation was totally abhorrent.' He looked down on us quite a bit, but he came around eventually, especially after the incredible contribution of women in the Great War!"</Answer1>
   </Person>
   
   <Person>
     <Name>Black Citizen</Name>
     <ID>6</ID>
     <Look>Despite African Americans being freed from bondage half a century ago, many towns across the country saw fit to segregate neighborhoods with local ordinances.</Look>
-    <Talk0>"To quote historians, civil rights was perhaps Wilson’s greatest tragedy. His administration implemented federal segregation, with some Departments separating people of color with separate lunchrooms, toilets, and even screened-off workplaces. Wilson exhibited the biases of his generation, and it would be years -- if not decades -- before many of these practices were changed."</Talk0>
+    <Talk0>"To quote historians, civil rights was perhaps Wilson’s greatest tragedy. His administration implemented federal segregation. Wilson was raised in the south during the American civil war, and his experiences were colored by that. It would be years -- if not decades -- before many of these practices were changed."</Talk0>
     <Talk1></Talk1>
-    <Question0>Can you explain some of the policies enacted under President Wilson?</Question0>
-    <Question1>Have there been protests about this?</Question1>
-    <Answer0>"You mean other than letting his Postmaster General segregate clerks due to 'percieved friction?' Well, under his administration a law was passed to make interracial marriage a felony."</Answer0>
-    <Answer1>"There have. Men like W.E.B. Du Bois and William Monroe Trotter have been part of delegations that have talked to the President about these issues. I hope these talks help with change."</Answer1>
+    <Question0>What is segregation?</Question0>
+    <Question1>Were there protests about this?</Question1>
+    <Answer0>"Segregation is the act of keeping people apart. For example, under Wilson’s administration, some Departments separated people of color with separate lunchrooms, toilets, and even screened-off workplaces. But they took it a step further, passing a law that made interracial marriage a felony."</Answer0>
+    <Answer1>"There were. Men like W.E.B. Du Bois and William Monroe Trotter were part of delegations that talked to the President about these issues. I hope these talks help with change."</Answer1>
   </Person>
   
   <Person>
     <Name>Sheep</Name>
     <ID>7</ID>
     <Look>The Wilson family kept sheep during World War I to replace lawnmowers and to sell their wool for the war effort. At their peak, there were 48 sheep on the White House grounds! </Look>
-    <Talk0>"President Wilson believed that the Federal Reserve System was one of his greatest achievements. 1913 was a big year, as it saw the passing of the Underwood Tariff Act and the Federal Reserve Act. The Federal Reserve Act created a central banking system in the U.S. and was one of many ways Woodrow Wilson changed the face of banking and business."</Talk0>
+    <Talk0>"President Wilson baah-lieved that the Federal Reserve System was one of his greatest achievements. The Federal Reserve Act of 1913 created a central baaah-nking system in the U.S. and was one of many ways Wilson changed the face of baaah-nking and baah-siness."</Talk0>
     <Talk1></Talk1>
     <Question0>Can you tell me more about the Federal Reserve?</Question0>
-    <Question1>How are you talking?</Question1>
+    <Question1>How does a sheep know so much about banking?</Question1>
     <Answer0>"President Wilson signed the Federal Reserve Act on December 23, 1913. The Fed, as some call it, is the central bank of the United States. It provides the nation with a safer, more flexible, and more stable monetary and financial system."</Answer0>
-    <Answer1>"This is a stylized work of interactive fiction. The designers thought a good way to teach would be to use a sheep!"</Answer1>
+    <Answer1>"The ram-ifications of a good education!"</Answer1>
   </Person>
   
   <Person>
     <Name>Child</Name>
     <ID>8</ID>
     <Look>In 1900, it was said that approximately 1.75 million children were part of the workforce. That's about 18 percent!</Look>
-    <Talk0>"President Wilson is my hero! He passed the first child labor laws, like the Keating-Owen Child Labor Act which made it illegal to employ children under age 14 in any facility. Pa says the President's position on labor was progressive for the time."</Talk0>
+    <Talk0>"President Wilson passed the first child labor laws, like the Keating-Owen Child Labor Act which made it illegal to employ children under age 14 in any facility. Pa says the President's position on labor was progressive for the time."</Talk0>
     <Talk1></Talk1>
     <Question0>Can you tell me more about the Keating-Owen bill?</Question0>
     <Question1>What will you do now that you don't have to work?</Question1>
@@ -110,13 +110,13 @@
   <Person>
     <Name>Georges Clemenceau</Name>
     <ID>9</ID>
-    <Look>For the sake of irony, Clemenceau had the Treaty of Versailles signed in Versailles' Hall of Mirrors, where William I of Germany declared himself emperor 48 years prior.</Look>
+    <Look>For the sake of irony, Clemenceau had the Treaty of Versailles signed in Versailles' Hall of Mirrors, where William I of Germany declared himself Emperor 48 years prior.</Look>
     <Talk0>"Wilson has his head in the clouds. The Versailles Treaty is too idealistic -- he doesn't even have support from his own country to join! And he bores me with his Fourteen Points; why, God Almighty has only ten!"</Talk0>
     <Talk1></Talk1>
     <Question0>What does France hope to gain from these talks?</Question0>
-    <Question1></Question1>
+    <Question1>Why is France so insistent on strong terms against Germany?</Question1>
     <Answer0>"We need a barrier behind which, in the years to come, our people can work in security to rebuild its ruins. That barrier is the Rhine. I must take national feelings into account."</Answer0>
-    <Answer1></Answer1>
+    <Answer1>"This is the second time in 50 years that we French have had to repel a German invasion. We want strong terms to make Germany so weak it could never invade us again!"</Answer1>
   </Person>
   
   <Person>
@@ -125,22 +125,22 @@
     <Look>For his work and negotiations at the Treaty of Versailles, Lloyd George would recieve the Order of Merit by King George V.</Look>
     <Talk0>"We all pay the price of war, and must do what we can to ensure peace. Wilson's points added to the Versailles Treaty have that intent through the founding of the League of Nations. An institution of this type, where nations come together to maintain world peace, has never existed. I hope it survives."</Talk0>
     <Talk1></Talk1>
-    <Question0>What does England hope to gain from these talks?</Question0>
-    <Question1></Question1>
+    <Question0>What does Great Britain hope to gain from these talks?</Question0>
+    <Question1>Why are the British asking for reparations from Germany?</Question1>
     <Answer0>"We want peace which will be just but not vindictive... Above all, we want to protect the future against a repetition of the horrors of this war."</Answer0>
-    <Answer1></Answer1>
+    <Answer1>"Well, our government spent millions of pounds on the war, and we took out many loans from American Banks, we all have to pay our debts."</Answer1>
   </Person>
   
   <Person>
     <Name>Vittorio Orlando</Name>
     <ID>11</ID>
     <Look>Because he failed to gain concessions during the treaty talks and Woodrow Wilson tried to undermine him by talking directly to the Italian people, Orlando ended up resigning as Prime Minister of Italy on June 19, 1919.</Look>
-    <Talk0>"We earned the rights to German territories from the war, but now Wilson is trying to cut us out of our share. There's no way I'll agree to a deal that doesn't give Italy what it deserves!"</Talk0>
+    <Talk0>"We earned the rights to Austro-Hungarian territories from the war, but now Wilson is trying to cut us out of our share. There's no way I'll agree to a deal that doesn't give Italy what it deserves!"</Talk0>
     <Talk1></Talk1>
     <Question0>What does Italy hope to gain from these talks?</Question0>
-    <Question1></Question1>
-    <Answer0>"Only what we were promised in the Treaty of London: Some islands off our coast, territory between Italy and Austro-Hungary, and parts of Dalmatia."</Answer0>
-    <Answer1></Answer1>
+    <Question1>Why are the Italians so angry about this process?</Question1>
+    <Answer0>"When we signed the Treaty of London, we were promised the ethnically Italian Parts of the Austro-Hungarian Empire. We want what we were promised, it’s only fair!"</Answer0>
+    <Answer1>"Well, we Italians are a major power who has fought hard for the alliance, yet we are cut out of talks. It’s supposed to be the big four, yet it seems like Britain and France are fine cutting us out!"</Answer1>
   </Person>
 
   <Person>
@@ -161,16 +161,16 @@
     <Look>Woodrow Wilson ended up having to leave France in the middle of the talks at Versailles to attend meetings with Congress back in the states. This was a ploy by his opposing party to undermine him.</Look>
     <Talk0>"I had tried to keep the US out of the war, but now I merely want to keep the world safe from future wars. I'm trying to get talks done here, but I'm concerned with the discontent brewing back home."</Talk0>
     <Talk1></Talk1>
-    <Question0>Is it hard being here in Paris?</Question0>
-    <Question1>DO you think the U.S. will become a part of the League of Nations?</Question1>
-    <Answer0>"Hm, yes and no. While the scenery is beautiful here, I'm worried about things back home in Congress."</Answer0>
+    <Question0>Why didn’t you bring any members of the opposition in your peace delegation?</Question0>
+    <Question1>Do you think the U.S. will become a part of the League of Nations?</Question1>
+    <Answer0>"Well, having opposition members would only weaken my negotiating stance. Besides I’m the president, I’ll negotiate the deal. Who would vote against a peace treaty?"</Answer0>
     <Answer1>"I do hope so! The U.S. cannot stay isolated in a world where violence and revolution can spill over country borders."</Answer1>
   </Person>
 
   <Person>
     <Name>Wilson2</Name>
     <ID>14</ID>
-    <Look>Woodrow Wilson became the 32nd president of the United States with 41 percent of the vote and 435 votes in the electoral college.</Look>
+    <Look>Woodrow Wilson became the 28th president of the United States with 41 percent of the vote and 435 votes in the electoral college.</Look>
     <Talk0>"It's a tough job running this country, but with the banning of child labor and the establishment of the Federal Reserve it's worth it. After all, if you tell me what is right I will fight for it!"</Talk0>
     <Talk1></Talk1>
     <Question0>What were some of the policies you enacted as president?</Question0>
